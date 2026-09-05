@@ -1,9 +1,4 @@
-![Header Image](inc.png)
-
-# CRDA Research Notebook Compendium
-
-This repository contains a sequence of Jupyter notebooks focused on audio-classification experiments, ranging from dataset preparation to multiple deep-learning model variants and uncertainty-driven CRDA analysis.
-
+![Header Image](ick.png)
 ## Research Scope
 
 - **Domain**: Spectrogram-based audio classification
